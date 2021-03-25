@@ -43,7 +43,7 @@ seo:
       value: images/10.jpg
       relativeUrl: true
 layout: post
-subtitle: '500+ '
+subtitle: 500+ JAMstack Themes
 ---
 With **Stackground** Explore 500+ Best [Gatsby WordPress themes](https://www.stackground.com/gatsby-wordpress-theme-templates) for your website developed using Gatsby for front-end and Headless WordPress for Back-end. Choose a premium responsive theme like portfolio, blog, corporate and get the benefits of fully customizable, incredibly fast and higher conversion.
 
