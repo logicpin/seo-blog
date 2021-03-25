@@ -1,6 +1,6 @@
 ---
 title: Free Guest Post Sites List
-subtitle: lorem-ipsum
+subtitle: Logicpin Best Listing Sites for Guest Post
 date: '2021-03-25'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
